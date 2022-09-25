@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    /* width: 100%; */
+    background-color:antiquewhite ;
+    text-align: center;
+}
+
+.heading{
+    font-size: 10rem;
+    font-style: italic;
+    color: royalblue;
+}
+
+.msg{
+    font-size: 1.5rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    padding: 1rem;
+}
+
+.dice{
+    display: inline-block;
+    text-align: center;
+}
+
+p{
+    padding: 1rem;
+}
+
+#p1{
+    color: maroon;
+    padding: 3rem;
+    font-size: 2rem;
+}
+#p2{
+    color: maroon;
+    padding: 3rem;
+    font-size: 2rem;
+}
+
+.d1{
+    size: 5rem;
+    width: 50rem;
+}
